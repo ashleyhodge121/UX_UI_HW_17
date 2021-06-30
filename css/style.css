@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(217,110,114)
+  }
+  
+  #header {
+    position: relative;
+  }
+  
+  #hero {
+    position: relative;
+  }
+  
+  #about {
+    padding-top: 15px;
+    padding-left: 1%;
+    width: 50%;
+    color: white;
+    font-size: large;
+    text-align: justify;
+  }
+  
+  #logo {
+    width: 200px;
+  }
+  
+  .navigation {
+   position: absolute;
+   top: 0;
+   right: 0; 
+   border-style: solid;
+   color: white;
+  }
+  
+  a {
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    width: 25%;
+    font-size: medium;
+  }
+  
+  #selfie {
+    width: 400px;
+    position: absolute;
+  }
+  
+  #selfiecontainer {
+    width: 45%;
+    position: absolute;
+    right: 0;
+    padding-top: 0px;
+    margin: -200px;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
+  #resume {
+    position: absolute;
+    padding-top: 450px;
+    padding-bottom: 25px;
+    padding-left: 1%;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+  #headings {
+      color: lightgray;
+      padding-top: 5%;
+      padding-left: 1%;
+      font-size:larger;
+  }
+
+  p {
+      color: white;
+  }
+
+  button {
+      background-color:lightslategray;
+      border: none;
+      color: white;
+      text-align: center;
+      padding: 10px 15px;
+  }
+
